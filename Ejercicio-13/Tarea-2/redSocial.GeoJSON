@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "redSocial",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Alex ", "description": " Sitio en el que tuvo lugar el nacimiento de Alex Rodriguez Valdes " }, "geometry": { "type": "Point", "coordinates": [ -5.650383, 43.488498 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Alex ", "description": " Lugar de la actual residencia en la que vive Alex Rodriguez Valdes " }, "geometry": { "type": "Point", "coordinates": [ -5.852365, 43.356161 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Jordi ", "description": " Sitio en el que tuvo lugar el nacimiento de Jordi Garcia Vilchez " }, "geometry": { "type": "Point", "coordinates": [ 1.662096, 41.319947 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Jordi ", "description": " Lugar de la actual residencia en la que vive Jordi Garcia Vilchez " }, "geometry": { "type": "Point", "coordinates": [ -5.669152, 43.511007 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Alberto ", "description": " Sitio en el que tuvo lugar el nacimiento de Alberto Martinez Campa " }, "geometry": { "type": "Point", "coordinates": [ -5.662053, 43.535522 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Alberto ", "description": " Lugar de la actual residencia en la que vive Alberto Martinez Campa " }, "geometry": { "type": "Point", "coordinates": [ -5.661931, 43.521597 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Elena ", "description": " Sitio en el que tuvo lugar el nacimiento de Elena Alvarez Exposito " }, "geometry": { "type": "Point", "coordinates": [ -5.652168, 43.526246 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Elena ", "description": " Lugar de la actual residencia en la que vive Elena Alvarez Exposito " }, "geometry": { "type": "Point", "coordinates": [ -15.546783, 27.985755 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Ignacio ", "description": " Sitio en el que tuvo lugar el nacimiento de Ignacio Menendez Lopez " }, "geometry": { "type": "Point", "coordinates": [ -8.410314, 43.342183 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Ignacio ", "description": " Lugar de la actual residencia en la que vive Ignacio Menendez Lopez " }, "geometry": { "type": "Point", "coordinates": [ -5.675807, 43.532989 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Cesar ", "description": " Sitio en el que tuvo lugar el nacimiento de Cesar Rodriguez Gracia " }, "geometry": { "type": "Point", "coordinates": [ -3.699636, 40.42367 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Cesar ", "description": " Lugar de la actual residencia en la que vive Cesar Rodriguez Gracia " }, "geometry": { "type": "Point", "coordinates": [ -5.683567, 43.537348 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Xana ", "description": " Sitio en el que tuvo lugar el nacimiento de Xana Sanchez Gamechogoicoechea " }, "geometry": { "type": "Point", "coordinates": [ -2.890206, 43.277205 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Xana ", "description": " Lugar de la actual residencia en la que vive Xana Sanchez Gamechogoicoechea " }, "geometry": { "type": "Point", "coordinates": [ -2.880696, 43.253345 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Yeray ", "description": " Sitio en el que tuvo lugar el nacimiento de Yeray Jimenez Abascal " }, "geometry": { "type": "Point", "coordinates": [ -5.8478, 43.357875 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Yeray ", "description": " Lugar de la actual residencia en la que vive Yeray Jimenez Abascal " }, "geometry": { "type": "Point", "coordinates": [ -5.852091, 43.359622 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Zack ", "description": " Sitio en el que tuvo lugar el nacimiento de Zack Johnson Johnson " }, "geometry": { "type": "Point", "coordinates": [ -73.964844, 40.684819 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Zack ", "description": " Lugar de la actual residencia en la que vive Zack Johnson Johnson " }, "geometry": { "type": "Point", "coordinates": [ -5.659038, 43.541215 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Alejandro ", "description": " Sitio en el que tuvo lugar el nacimiento de Alejandro Crespo Perez " }, "geometry": { "type": "Point", "coordinates": [ -3.688521, 40.451391 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Alejandro ", "description": " Lugar de la actual residencia en la que vive Alejandro Crespo Perez " }, "geometry": { "type": "Point", "coordinates": [ -5.660718, 40.973444 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Sonia ", "description": " Sitio en el que tuvo lugar el nacimiento de Sonia Fernandez Coto " }, "geometry": { "type": "Point", "coordinates": [ -5.828542, 43.371445 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Sonia ", "description": " Lugar de la actual residencia en la que vive Sonia Fernandez Coto " }, "geometry": { "type": "Point", "coordinates": [ -5.566885, 43.216913 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Abel ", "description": " Sitio en el que tuvo lugar el nacimiento de Abel Busto Dopazo " }, "geometry": { "type": "Point", "coordinates": [ -5.844195, 43.371353 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Abel ", "description": " Lugar de la actual residencia en la que vive Abel Busto Dopazo " }, "geometry": { "type": "Point", "coordinates": [ -6.11064, 43.487253 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de nacimiento de Diego ", "description": " Sitio en el que tuvo lugar el nacimiento de Diego Garcia Garcia " }, "geometry": { "type": "Point", "coordinates": [ -5.845344, 43.365168 ] } },
+{ "type": "Feature", "properties": { "Name": " Lugar de residencia de Diego ", "description": " Lugar de la actual residencia en la que vive Diego Garcia Garcia " }, "geometry": { "type": "Point", "coordinates": [ -5.701588, 43.384405 ] } }
+]
+}

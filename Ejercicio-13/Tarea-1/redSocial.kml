@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Placemark>
+			<name> Lugar de nacimiento de Alex </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Alex Rodriguez Valdes </description>
+			<Point>
+				<coordinates> -5.650383,43.488498 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Alex </name>
+			<description> Lugar de la actual residencia en la que vive Alex Rodriguez Valdes </description>
+			<Point>
+				<coordinates> -5.852365,43.356161 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Jordi </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Jordi Garcia Vilchez </description>
+			<Point>
+				<coordinates> 1.662096,41.319947 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Jordi </name>
+			<description> Lugar de la actual residencia en la que vive Jordi Garcia Vilchez </description>
+			<Point>
+				<coordinates> -5.669152,43.511007 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Alberto </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Alberto Martinez Campa </description>
+			<Point>
+				<coordinates> -5.662053,43.535522 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Alberto </name>
+			<description> Lugar de la actual residencia en la que vive Alberto Martinez Campa </description>
+			<Point>
+				<coordinates> -5.661931,43.521597 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Elena </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Elena Alvarez Exposito </description>
+			<Point>
+				<coordinates> -5.652168,43.526246 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Elena </name>
+			<description> Lugar de la actual residencia en la que vive Elena Alvarez Exposito </description>
+			<Point>
+				<coordinates> -15.546783,27.985755 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Ignacio </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Ignacio Menendez Lopez </description>
+			<Point>
+				<coordinates> -8.410314,43.342183 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Ignacio </name>
+			<description> Lugar de la actual residencia en la que vive Ignacio Menendez Lopez </description>
+			<Point>
+				<coordinates> -5.675807,43.532989 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Cesar </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Cesar Rodriguez Gracia </description>
+			<Point>
+				<coordinates> -3.699636,40.423670 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Cesar </name>
+			<description> Lugar de la actual residencia en la que vive Cesar Rodriguez Gracia </description>
+			<Point>
+				<coordinates> -5.683567,43.537348 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Xana </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Xana Sanchez Gamechogoicoechea </description>
+			<Point>
+				<coordinates> -2.890206,43.277205 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Xana </name>
+			<description> Lugar de la actual residencia en la que vive Xana Sanchez Gamechogoicoechea </description>
+			<Point>
+				<coordinates> -2.880696,43.253345 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Yeray </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Yeray Jimenez Abascal </description>
+			<Point>
+				<coordinates> -5.847800,43.357875 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Yeray </name>
+			<description> Lugar de la actual residencia en la que vive Yeray Jimenez Abascal </description>
+			<Point>
+				<coordinates> -5.852091,43.359622 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Zack </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Zack Johnson Johnson </description>
+			<Point>
+				<coordinates> -73.964844,40.684819 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Zack </name>
+			<description> Lugar de la actual residencia en la que vive Zack Johnson Johnson </description>
+			<Point>
+				<coordinates> -5.659038,43.541215 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Alejandro </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Alejandro Crespo Perez </description>
+			<Point>
+				<coordinates> -3.688521,40.451391 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Alejandro </name>
+			<description> Lugar de la actual residencia en la que vive Alejandro Crespo Perez </description>
+			<Point>
+				<coordinates> -5.660718,40.973444 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Sonia </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Sonia Fernandez Coto </description>
+			<Point>
+				<coordinates> -5.828542,43.371445 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Sonia </name>
+			<description> Lugar de la actual residencia en la que vive Sonia Fernandez Coto </description>
+			<Point>
+				<coordinates> -5.566885,43.216913 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Abel </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Abel Busto Dopazo </description>
+			<Point>
+				<coordinates> -5.844195,43.371353 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Abel </name>
+			<description> Lugar de la actual residencia en la que vive Abel Busto Dopazo </description>
+			<Point>
+				<coordinates> -6.110640,43.487253 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de nacimiento de Diego </name>
+			<description> Sitio en el que tuvo lugar el nacimiento de Diego Garcia Garcia </description>
+			<Point>
+				<coordinates> -5.845344,43.365168 </coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> Lugar de residencia de Diego </name>
+			<description> Lugar de la actual residencia en la que vive Diego Garcia Garcia </description>
+			<Point>
+				<coordinates> -5.701588,43.384405 </coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

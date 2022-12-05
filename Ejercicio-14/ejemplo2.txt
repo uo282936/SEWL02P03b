@@ -1,0 +1,39 @@
+-- sol
+circulo-650/0/60-amarillo
+triangulo-640,5/645,10/538,1-amarillo
+triangulo-640,5/645,10/538,11-amarillo
+triangulo-640,5/645,10/542,22-amarillo
+triangulo-640,5/645,10/546,33-amarillo
+triangulo-640,5/645,10/550,44-amarillo
+triangulo-640,5/645,10/555,55-amarillo
+triangulo-640,5/645,10/560,65-amarillo
+triangulo-640,5/645,10/570,70-amarillo
+triangulo-640,5/645,10/580,75-amarillo
+triangulo-640,5/645,10/590,80-amarillo
+triangulo-640,5/645,10/600,85-amarillo
+triangulo-640,5/645,10/610,90-amarillo
+triangulo-640,5/645,10/620,95-amarillo
+triangulo-640,5/645,10/630,98-amarillo
+triangulo-640,5/645,10/640,100-amarillo
+triangulo-640,5/645,10/650,102-amarillo
+
+-- suelo
+rectangulo-0/360/650/40-verde
+rectangulo-0/360/650/1-
+
+-- casa
+triangulo-230,190/420,190/325,90-rojo
+rectangulo-240/180/170/180-random
+rectangulo-300/280/50/80-rojo
+rectangulo-260/210/35/35-rojo
+rectangulo-355/210/35/35-rojo
+rectangulo-260/226/35/3-
+rectangulo-355/226/35/3-
+rectangulo-276/210/3/35-
+rectangulo-371/210/3/35-
+rectangulo-339/319/2/2-
+rectangulo-370/120/20/40-
+circulo-385/105/10-
+circulo-390/100/8-
+circulo-395/95/6-
+circulo-399/91/4-
