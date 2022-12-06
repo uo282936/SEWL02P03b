@@ -1,0 +1,8 @@
+rectangulo-7/6/60/19-rojo
+rectangulo-180/75/18/15-random
+triangulo-99,23/175,11/162,56-azul
+circulo-115/68/15-random
+triangulo-92,118/92,143/115,143-random
+rectangulo-32/53/28/28-amarillo
+circulo-241/114/25-verde
+circulo-241/49/30-colornovalido
