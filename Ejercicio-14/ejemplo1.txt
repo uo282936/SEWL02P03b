@@ -1,8 +1,0 @@
-rectangulo-15/15/130/50-rojo
-rectangulo-390/200/40/40-random
-triangulo-215,60/380,30/350,150-azul
-circulo-250/180/30-random
-triangulo-200,315/200,380/250,380-random
-rectangulo-70/140/60/75-amarillo
-circulo-500/330/50-verde
-circulo-500/130/60-colornovalido
